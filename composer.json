@@ -9,6 +9,11 @@
             "name": "Jonny Wenmoth",
             "email": "contact@jonnyw.me",
             "homepage": "http://jonnyw.me/"
+        },
+        {
+            "name": "Igor Goroshit",
+            "email": "igor@webt.co.il",
+            "homepage": "http://webt.co.il"
         }
     ],
     "minimum-stability": "stable",
